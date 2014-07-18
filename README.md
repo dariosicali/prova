@@ -1,6 +1,6 @@
 prova
 =====
 <?php
-echo "Ciao":
+echo "Ciao";
 
 ?>
