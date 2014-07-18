@@ -1,6 +1,0 @@
-prova
-=====
-<?php
-echo "Ciao";
-
-?>
